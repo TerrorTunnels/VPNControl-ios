@@ -1,0 +1,9 @@
+.DS_Store
+VPNControl.xcodeproj
+VPNControl.xcodeproj/*
+icons
+icons/*
+VPNControlTests
+VPNControlTests/*
+VPNControlUITests
+VPNControlUITests/*
