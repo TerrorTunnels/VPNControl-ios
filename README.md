@@ -30,7 +30,7 @@ The app provides a simple interface to:
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:rjamestaylor/VPNControl.git
+git clone git@github.com:rjamestaylor/VPNControl-ios.git
 ```
 
 2. Create a new Xcode project:
